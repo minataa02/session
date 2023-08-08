@@ -41,6 +41,6 @@
 		%>
 	</ol>
 	
-	<!--  -->
+	<!-- ceci est un commentaire depuis github -->
 </body>
 </html>
